@@ -8,4 +8,4 @@ cd into repository, run
 
 `bundle install`
 
-`rake test`
+`bundle exec cucumber`
